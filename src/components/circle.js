@@ -5,7 +5,9 @@ class Circle extends Shape{
     constructor(color){
         super();
     }
-    calculateArea();
+    calculateArea() {
+        
+    }
 }
 
 // export class using module.exports
